@@ -1,4 +1,4 @@
-<?php include('../../app.php') ?>
+
 
 <!doctype html>
 <html lang="en">

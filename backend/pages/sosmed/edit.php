@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php include "../../components/head.php" ?>
-<?php include "../../app.php" ?>
+
 <body>
     <!--  Body Wrapper -->
     <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"

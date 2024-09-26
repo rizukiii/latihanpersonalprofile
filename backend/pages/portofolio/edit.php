@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php include "../../components/head.php" ?>
-<?php include "../../app.php" ?>
+
 
 <body>
     <!--  Body Wrapper -->

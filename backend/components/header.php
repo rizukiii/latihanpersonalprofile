@@ -1,7 +1,7 @@
 <?php 
 
-include "../app.php";
-session_start();
+include "../../app.php";
+
 
 // die($_SESSION['email']);
 

@@ -1,8 +1,4 @@
-<?php 
-include "../../config/connection.php";
 
-
-?>
 
 <head>
     <meta charset="utf-8">
